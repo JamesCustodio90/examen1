@@ -1,36 +1,36 @@
 [
     {
-       "nombre":"Pedro",
+       "nombre":"Roberto",
        "nota":10,
        "ranking":1
     },
     {
-        "nombre":"Pablo",
+        "nombre":"Andres",
         "nota":9.5,
         "ranking":2
      },
      {
-        "nombre":"Juan",
+        "nombre":"Pablo",
         "nota":9,
         "ranking":3
      },
      {
-        "nombre":"Brayan",
+        "nombre":"Alvaro",
         "nota":8.5,
         "ranking":4
      },
      {
-        "nombre":"Lucas",
+        "nombre":"Oscar",
         "nota":8,
         "ranking":5
      },
     {
-        "nombre":"Marcos",
+        "nombre":"Alejandro",
         "nota":7,
         "ranking":6
      },
      {
-        "nombre":"Judas",
+        "nombre":"Wilson",
         "nota":6,
         "ranking":7
      },
@@ -40,7 +40,7 @@
         "ranking":8
      },
      {
-        "nombre":"Juan carlos",
+        "nombre":"Enrique",
         "nota":4,
         "ranking":9
      }
